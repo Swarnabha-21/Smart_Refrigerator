@@ -146,8 +146,8 @@ BlynkTimer timer;
 
 
 
-char ssid[] = ""; // PLEASE ENTER YOUR WIFI NAME
-char pass[] = ""; // PLEASE ENTER YOUR WIFI PASS
+char ssid[] = "****"; // PLEASE ENTER YOUR WIFI NAME
+char pass[] = "****"; // PLEASE ENTER YOUR WIFI PASS
 
 
 
